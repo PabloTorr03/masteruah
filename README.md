@@ -47,9 +47,9 @@
     CAMBIAR FOTO PERFIL
     <img src="Screenshot_1.png">
     </li>
-    
     <li>
-    
+    DOBLE FACTOR DE IDENTIFICACIÓN
+    <img src="Screenshot_2.png">
     </li>
     <li>
     
