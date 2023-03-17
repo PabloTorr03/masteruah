@@ -62,7 +62,7 @@
     <li>
     ESTRELLA REPOSITORIOS
     </li>
-    
+    <img src="Screenshot_6.png">
     <li>
     
     </li>
