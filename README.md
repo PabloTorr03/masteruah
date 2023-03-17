@@ -38,14 +38,15 @@
     Nos posicionamos en la rama v0.2 con el comando git checkout v0.2 y escribe en fichero 1.txt con el comando echo "Adios" > 1.txt, y lo añadimos con git add 1.txt y lo añadimos con el comando git commit -m "agrgando adios al fichero 1.txt en la rama v0.2"
     </li>
     <li>
-    Cambiamos de rama git checkout main para hacer un merge entre las dos (git merge )
+    Cambiamos de rama git checkout main para hacer un merge entre las dos (git merge v0.2) dando un conflicto entre las dos ramas, para solucionarlo primero encontramos el fallo con git status y para resolver el fallo utilizazmos el comando vim 1.txt para solucionar el fallo elegimos entre una de las dos ramas lo que es correcto y escribimos wq para salir. Despues de terminar de reparar el fallo utilizamos git commit -m "Resuelto conflicto en fichero 1.txt". 
     </li>
     <li>
-    
+    Despues de resolver el fallo creamos el tag v0.2 y borramos la rama con git branch -D v0.2. Para encontrar el listado de cambios utilizamos el comando git log --one line --decorate --all 
     </li>
     <li>
-    
+    CAMBIAR FOTO PERFIL
     </li>
+    <img src="C:\Users\pablo\Desktop\1ºDam\Entornos\Screenshot_1.png">
     <li>
     
     </li>
