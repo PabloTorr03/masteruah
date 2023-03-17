@@ -53,15 +53,16 @@
     </li>
     <li>
     CLAVE PUBLICA PC
-    <img src="Screenshot_3.png">
     </li>
+    <img src="Screenshot_3.png">
     <li>
     AMIGOS
+    </li>
     <img src="Screenshot_4.png"><img src="Screenshot_5.png">
-    </li>
     <li>
-    
+    ESTRELLA REPOSITORIOS
     </li>
+    
     <li>
     
     </li>
