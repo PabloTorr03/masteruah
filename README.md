@@ -46,7 +46,7 @@
     <li>
     CAMBIAR FOTO PERFIL
     </li>
-    <img src="\Screenshot_1.png">
+    <img src="Screenshot_1.png">
     <li>
     
     </li>
