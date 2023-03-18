@@ -99,10 +99,11 @@
     <li>
     FORK
     </li>
-    <img src="Screenshot_13.png"><img src="Screenshot_14.png"><img src="Screenshot_15.png">
+    <img src="Screenshot_14.png"><img src="Screenshot_15.png">
     <li>
-    
+    Pull-requests
     </li>
+    <img src="Screenshot_13.png">
 </ol>
 
 
