@@ -89,8 +89,9 @@
     </li>
     <img src="Screenshot_8.png">
     <li>
-    
+    MIEMBROS
     </li>
+    <img src="Screenshot_9.png"><img src="Screenshot_10.png"><img src="Screenshot_11.png">
     <li>
     
     </li>
