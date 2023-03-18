@@ -83,10 +83,11 @@
     <li>
     COLABORADORES
     </li>
-    
+    <img src="Screenshot_7.png">
     <li>
-    
+    ORGANIZACIÓN
     </li>
+    <img src="Screenshot_8.png">
     <li>
     
     </li>
