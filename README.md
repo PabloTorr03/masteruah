@@ -64,8 +64,22 @@
     </li>
     <img src="Screenshot_6.png">
     <li>
-    
+    TABLA
     </li>
+    <table>
+    <tr>
+    <th>NOMBRE</th>
+    <th>GITHUB</th>
+    </tr>
+    <tr>
+    <td>AlexSancheez02</td>
+    <td>https://github.com/AlexSancheez02</td>
+    </tr>
+    <tr>
+    <td>jalefrcracker</td>
+    <td>https://github.com/JLFcmd</td>
+    </tr>
+    </table>
     <li>
     
     </li>
